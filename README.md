@@ -6,14 +6,14 @@ A Machine Learning-powered web application that predicts house prices in Bengalu
 
 ## 📸 Application Preview
 
-> Add screenshots of your application here.
+
 
 ### Home Page
-(/<img width="1364" height="595" alt="Screenshot 2026-07-22 110758" src="https://github.com/user-attachments/assets/0df46976-e13e-43a4-9fef-6ff2b94a5850" />
+(<img width="1364" height="595" alt="Screenshot 2026-07-22 110758" src="https://github.com/user-attachments/assets/0df46976-e13e-43a4-9fef-6ff2b94a5850" />
 )
 
 ### Prediction Page
-(/<img width="1365" height="585" alt="Screenshot 2026-07-22 110841" src="https://github.com/user-attachments/assets/1e84b913-07c0-440c-9b6f-c153c28fe724" />
+(<img width="1365" height="585" alt="Screenshot 2026-07-22 110841" src="https://github.com/user-attachments/assets/1e84b913-07c0-440c-9b6f-c153c28fe724" />
 )
 
 ---
@@ -103,47 +103,6 @@ The data is cleaned and preprocessed before training the machine learning model.
 
 ---
 
-## ⚙ Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Bangalore-House-Price-Prediction.git
-```
-
-### Navigate to project folder
-
-```bash
-cd Bangalore-House-Price-Prediction
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the application
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 📦 Requirements
-
-```
-streamlit
-streamlit-lottie
-numpy
-pandas
-scikit-learn
-plotly
-```
-
----
-
 ## 💡 How It Works
 
 1. Launch the Streamlit application.
@@ -155,18 +114,6 @@ plotly
    - Bathrooms
 4. Click **Predict Price**.
 5. The trained Random Forest model predicts the estimated property price and displays it instantly. :contentReference[oaicite:1]{index=1}
-
----
-
-## 📈 Future Improvements
-
-- Add Price Distribution Graphs
-- Deploy on Streamlit Cloud
-- Interactive Maps
-- Compare House Prices
-- Recommendation System
-- User Authentication
-- Save Prediction History
 
 ---
 
@@ -184,15 +131,3 @@ This project helped me learn:
 
 ---
 
-## 👨‍💻 Author
-
-**Dhanush Bangera**
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
