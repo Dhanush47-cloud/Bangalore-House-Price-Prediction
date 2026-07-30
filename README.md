@@ -6,7 +6,7 @@ A Machine Learning-powered web application that predicts house prices in Bengalu
 
 ## 📸 Application Preview           
 
-
+                
 
 ### Home Page                          
 <img width="1364" height="595" alt="Screenshot 2026-07-22 110758" src="https://github.com/user-attachments/assets/0df46976-e13e-43a4-9fef-6ff2b94a5850" />
